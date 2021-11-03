@@ -1,0 +1,30 @@
+Z:\Учеба\ТМПроги\Шифратор\Шифратор\obj\Debug\Шифратор.Form1.resources
+Z:\Учеба\ТМПроги\Шифратор\Шифратор\obj\Debug\Шифратор.Properties.Resources.resources
+Z:\Учеба\ТМПроги\Шифратор\Шифратор\obj\Debug\Шифратор.csproj.GenerateResource.cache
+Z:\Учеба\ТМПроги\Шифратор\Шифратор\obj\Debug\Шифратор.csproj.CoreCompileInputs.cache
+Z:\Учеба\ТМПроги\Шифратор\Шифратор\bin\Debug\Шифратор.exe.config
+Z:\Учеба\ТМПроги\Шифратор\Шифратор\bin\Debug\Шифратор.exe
+Z:\Учеба\ТМПроги\Шифратор\Шифратор\bin\Debug\Шифратор.pdb
+Z:\Учеба\ТМПроги\Шифратор\Шифратор\obj\Debug\Шифратор.exe
+Z:\Учеба\ТМПроги\Шифратор\Шифратор\obj\Debug\Шифратор.pdb
+Z:\Учеба\ТМПроги\Шифратор\Шифратор\obj\Debug\Шифратор.csprojAssemblyReference.cache
+E:\Шифратор\Шифратор\obj\Debug\Шифратор.csprojAssemblyReference.cache
+E:\Шифратор\Шифратор\obj\Debug\Шифратор.Form1.resources
+E:\Шифратор\Шифратор\obj\Debug\Шифратор.Properties.Resources.resources
+E:\Шифратор\Шифратор\obj\Debug\Шифратор.csproj.GenerateResource.cache
+E:\Шифратор\Шифратор\obj\Debug\Шифратор.csproj.CoreCompileInputs.cache
+E:\Шифратор\Шифратор\obj\Debug\Шифратор.exe
+E:\Шифратор\Шифратор\obj\Debug\Шифратор.pdb
+E:\Шифратор\Шифратор\bin\Debug\Шифратор.exe.config
+E:\Шифратор\Шифратор\bin\Debug\Шифратор.exe
+E:\Шифратор\Шифратор\bin\Debug\Шифратор.pdb
+D:\Учеба\2 курс\ТМПроги\Шифратор\Шифратор\bin\Debug\Шифратор.exe.config
+D:\Учеба\2 курс\ТМПроги\Шифратор\Шифратор\bin\Debug\Шифратор.exe
+D:\Учеба\2 курс\ТМПроги\Шифратор\Шифратор\bin\Debug\Шифратор.pdb
+D:\Учеба\2 курс\ТМПроги\Шифратор\Шифратор\obj\Debug\Шифратор.csprojAssemblyReference.cache
+D:\Учеба\2 курс\ТМПроги\Шифратор\Шифратор\obj\Debug\Шифратор.Form1.resources
+D:\Учеба\2 курс\ТМПроги\Шифратор\Шифратор\obj\Debug\Шифратор.Properties.Resources.resources
+D:\Учеба\2 курс\ТМПроги\Шифратор\Шифратор\obj\Debug\Шифратор.csproj.GenerateResource.cache
+D:\Учеба\2 курс\ТМПроги\Шифратор\Шифратор\obj\Debug\Шифратор.csproj.CoreCompileInputs.cache
+D:\Учеба\2 курс\ТМПроги\Шифратор\Шифратор\obj\Debug\Шифратор.exe
+D:\Учеба\2 курс\ТМПроги\Шифратор\Шифратор\obj\Debug\Шифратор.pdb
