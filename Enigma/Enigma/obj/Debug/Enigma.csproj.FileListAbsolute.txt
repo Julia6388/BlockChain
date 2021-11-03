@@ -1,0 +1,20 @@
+C:\Users\Админ\Desktop\Прога\Enigma\Enigma\bin\Debug\Enigma.exe.config
+C:\Users\Админ\Desktop\Прога\Enigma\Enigma\bin\Debug\Enigma.exe
+C:\Users\Админ\Desktop\Прога\Enigma\Enigma\bin\Debug\Enigma.pdb
+C:\Users\Админ\Desktop\Прога\Enigma\Enigma\obj\Debug\Enigma.csprojAssemblyReference.cache
+C:\Users\Админ\Desktop\Прога\Enigma\Enigma\obj\Debug\Enigma.Form1.resources
+C:\Users\Админ\Desktop\Прога\Enigma\Enigma\obj\Debug\Enigma.Properties.Resources.resources
+C:\Users\Админ\Desktop\Прога\Enigma\Enigma\obj\Debug\Enigma.csproj.GenerateResource.cache
+C:\Users\Админ\Desktop\Прога\Enigma\Enigma\obj\Debug\Enigma.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\Прога\Enigma\Enigma\obj\Debug\Enigma.exe
+C:\Users\Админ\Desktop\Прога\Enigma\Enigma\obj\Debug\Enigma.pdb
+C:\Users\Админ\Desktop\Прога\Enigma  ( c ООП)\Enigma\bin\Debug\Enigma.exe.config
+C:\Users\Админ\Desktop\Прога\Enigma  ( c ООП)\Enigma\bin\Debug\Enigma.exe
+C:\Users\Админ\Desktop\Прога\Enigma  ( c ООП)\Enigma\bin\Debug\Enigma.pdb
+C:\Users\Админ\Desktop\Прога\Enigma  ( c ООП)\Enigma\obj\Debug\Enigma.csprojAssemblyReference.cache
+C:\Users\Админ\Desktop\Прога\Enigma  ( c ООП)\Enigma\obj\Debug\Enigma.Form1.resources
+C:\Users\Админ\Desktop\Прога\Enigma  ( c ООП)\Enigma\obj\Debug\Enigma.Properties.Resources.resources
+C:\Users\Админ\Desktop\Прога\Enigma  ( c ООП)\Enigma\obj\Debug\Enigma.csproj.GenerateResource.cache
+C:\Users\Админ\Desktop\Прога\Enigma  ( c ООП)\Enigma\obj\Debug\Enigma.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\Прога\Enigma  ( c ООП)\Enigma\obj\Debug\Enigma.exe
+C:\Users\Админ\Desktop\Прога\Enigma  ( c ООП)\Enigma\obj\Debug\Enigma.pdb
